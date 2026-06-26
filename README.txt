@@ -2,7 +2,7 @@ IDS ASSIGNMENT 3 - MERGED SOURCE PACKAGE
 ========================================
 
 All Python source code has been merged into one file:
-    IDS_Assignment3_All_In_One.py
+    IDS_Assignment3.py
 
 Install:
     python -m venv .venv
@@ -11,14 +11,14 @@ Install:
     pip install -r requirements.txt
 
 Run the complete analysis and create the Word report:
-    python IDS_Assignment3_All_In_One.py --mode all
+    python IDS_Assignment3.py --mode all
 
 Fast verification run:
-    python IDS_Assignment3_All_In_One.py --mode all --quick
+    python IDS_Assignment3.py --mode all --quick
 
 Other modes:
-    python IDS_Assignment3_All_In_One.py --mode analysis
-    python IDS_Assignment3_All_In_One.py --mode report
+    python IDS_Assignment3.py --mode analysis
+    python IDS_Assignment3.py --mode report
 
 Generated folders:
     data/processed     generated multimodal data
