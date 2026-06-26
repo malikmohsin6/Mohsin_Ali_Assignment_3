@@ -11,7 +11,7 @@ Install:
     pip install -r requirements.txt
 
 Run the complete analysis and create the Word report:
-    python IDS_Assignment3.py --mode all
+    python "Source Code/IDS_Assignment3.py" --mode all
 
 Fast verification run:
     python IDS_Assignment3.py --mode all --quick
