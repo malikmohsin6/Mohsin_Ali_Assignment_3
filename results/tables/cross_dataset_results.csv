@@ -1,0 +1,3 @@
+dataset,category,accuracy,mean_CRI
+Demo-CBC low leakage,Side-channel + ciphertext,1.0,15.859626318902624
+Demo-ECB strong leakage,Side-channel + ciphertext,0.9875,67.67914237701483

@@ -1,0 +1,10 @@
+{
+  "accuracy": 0.99375,
+  "precision": 1.0,
+  "recall": 0.9875,
+  "f1_score": 0.9937106918238994,
+  "roc_auc": 0.999296875,
+  "runtime_seconds": 7.018104882000017,
+  "parameter_count": 39430,
+  "memory_mb_estimate": 0.15772
+}

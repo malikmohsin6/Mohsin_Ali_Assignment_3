@@ -1,0 +1,2 @@
+dataset,samples,trace_length,ciphertext_bytes,ssp_features,true_key_byte0,CPA_best_guess,true_key_rank,CPA_peak_correlation,hybrid_accuracy,hybrid_f1,hybrid_roc_auc,mean_CRI_lowrisk,mean_CRI_vulnerable
+Demo multimodal (ASCAD-compatible traces + AES ciphertext),1600,256,32,21,136,136,0,0.9193997383117676,0.99375,0.9937106918238994,0.999296875,15.859626318902624,67.67914237701483

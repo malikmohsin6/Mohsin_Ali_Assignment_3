@@ -1,0 +1,4 @@
+method,accuracy,precision,recall,f1_score,roc_auc,interpretability,generalization
+CPA (classical),,,,,,High,Dataset dependent
+Random Forest on SSP,1.0,1.0,1.0,1.0,1.0,Medium-High,Moderate
+CNN+Transformer+SSP Fusion,0.99375,1.0,0.9875,0.9937106918238994,0.999296875,Medium (SSP/SHAP ready),Higher with cross-dataset training
